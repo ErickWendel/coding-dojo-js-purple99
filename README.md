@@ -18,6 +18,12 @@ As regras são as seguintes:
 
 ### Rodando
 
+
+```
+npm i
+```
+
+
 ```
  npm i -g jest
 ```
